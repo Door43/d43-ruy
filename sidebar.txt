@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ruy:home|Door43 (ruy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ruy|d43-ruy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ruy/archive/master.zip|d43-ruy.zip]]
+
+**Recent Changes**
+{{changes>ns = ruy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ruy|Ethnologue data]]
+
